@@ -1,5 +1,5 @@
 ---
-name: donertrade-icerik
+name: icerik
 description: DonerTrade için Türkçe B2B Instagram/TikTok/Facebook içeriği üretir — hook, Reels videosu, carousel, Story, açıklama ve haftalık yayın takvimi. Avrupa'daki gurbetçi döner toptancılarını hedefler.
 ---
 
