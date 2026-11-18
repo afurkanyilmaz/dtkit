@@ -1,0 +1,21 @@
+DonerTrade · 1. hafta (19–25 Kasım 2026) · saatler Orta Avrupa saati (Türkiye +2)
+
+Per 19 Kas 07:30  Reels  Gun1_Reel_DonerFiyati_FIYAT.mp4        Konum: Berlin     DM: FİYAT
+Cum 20 Kas 12:30  Reels  Gun2_Reel_TekrarSiparis_TEKRAR.mp4     Konum: Köln       DM: TEKRAR
+Cmt 21 Kas 10:00  Carousel Carousel_01..07.png (sırayla)        Konum: Amsterdam  DM: SORU
+Paz 22 Kas  —     Sadece Story
+Pzt 23 Kas 07:30  Reels  Gun5_Reel_EnPahaliHata_HESAP.mp4       Konum: Brüksel    DM: HESAP
+Sal 24 Kas 12:30  Reels  Gun6_Reel_10Sent_SENT.mp4              Konum: Viyana     DM: SENT
+Çar 25 Kas 20:30  Reels  Gun7_Reel_Tutarlilik_TUTARLI.mp4       Konum: Duisburg   DM: TUTARLI
+
+Açıklamalar, hashtag'ler (ilk yoruma), Story planı ve DM cevap şablonu strateji belgesinde:
+"1. hafta yayın takvimi" bölümü.
+
+Story görsellerine anket/test/soru çıkartmasını Instagram'da ortadaki boşluğa ekleyin:
+Gun1: Anket — Almanya / Hollanda / Belçika / Diğer
+Gun2: Anket "Son 1 yılda döner tedarikçini değiştirdin mi?" — Evet / Hayır
+Gun3: Test — 5,90 € / 7,11 € (doğru) / 8,50 €
+Gun4: Soru kutusu — "Yaz, cevaplayalım"
+Gun5: Emoji kaydırıcı — döner emojisi
+Gun6: Anket — 1–5 ton / 5–10 ton / 10+ ton
+Gun7: DM çıkartması

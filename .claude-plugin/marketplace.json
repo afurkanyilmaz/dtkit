@@ -1,0 +1,14 @@
+{
+  "name": "toptan-icerik-studyo",
+  "description": "Avrupa'daki gurbetçi toptancılara yönelik Türkçe B2B sosyal medya içerik eklentileri",
+  "owner": {
+    "name": "Aziz Furkan Yilmaz"
+  },
+  "plugins": [
+    {
+      "name": "toptan-icerik",
+      "source": "./plugins/toptan-icerik",
+      "description": "DonerTrade içerik skill'i + Reels/carousel/Story render kodu"
+    }
+  ]
+}
